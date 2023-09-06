@@ -20,7 +20,7 @@ Full Stack MERN(MongoDB, Express, React, Node) Application
 
 ### Live Preview
 
-[Demo](hhttps://find-my-colleague.vercel.app/)
+[Demo](https://find-my-colleague.vercel.app/)
 
 ## License
 
