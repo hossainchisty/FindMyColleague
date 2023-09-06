@@ -47,7 +47,6 @@ function Employee() {
             <tr>
               <th>Employee ID</th>
               <th>Employee Name</th>
-              <th>Salary($)</th>
               <th>Date of Birth</th>
               <th>Join Date</th>
             </tr>
@@ -57,7 +56,6 @@ function Employee() {
               <tr key={employee.empid}>
                 <td>{employee.empid}</td>
                 <td>{employee.empName}</td>
-                <td>{employee.salary}</td>
                 <td>{employee.dob}</td>
                 <td>{employee.joinDate}</td>
               </tr>
